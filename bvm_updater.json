@@ -1,0 +1,9 @@
+{
+  "latestVersion": "2",
+  "url": "https://github.com/charmeryl/AppUpdater/releases-v1.0.1.apk",
+  "releaseNotes": [
+    "- Fix minor bugs",
+    "- UI optimaization",
+    "- Import translations"
+  ]
+}
